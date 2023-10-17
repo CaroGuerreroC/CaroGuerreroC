@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaroGuerreroC
-- 👀 I’m interested in Web Development and Blockchain
-- 🌱 I’m currently learning blockchain
+- 👀 I’m interested in Web Development and Data Analysis 
+- 🌱 I’m currently learning data analysis
 - 📫 How to reach me on twitter @caro_guerrero
 
 <!---
